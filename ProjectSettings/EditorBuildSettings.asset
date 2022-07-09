@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 4f865ad0f04f3ac4a9b840300b9a8246
+  - enabled: 1
     path: Assets/Scenes/EasygameScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -14,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HerdgameScene.unity
     guid: 6fd77ac1bc3182b4abfd439eff5d2497
-  - enabled: 1
-    path: Assets/Scenes/TitleScene.unity
-    guid: 4f865ad0f04f3ac4a9b840300b9a8246
   - enabled: 1
     path: Assets/Scenes/EndlessgameScene.unity
     guid: f8a08666daecee74385c2d2db21dd9ee

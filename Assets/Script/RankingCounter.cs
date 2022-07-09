@@ -62,7 +62,7 @@ public class RankingCounter : MonoBehaviour
 
             for (int i = 0; i < textComponent.Length; i++)
         {
-            textComponent[i].text = i + 1.ToString() + "ˆÊ : name " + Score[i].ToString();
+            textComponent[i].text = i.ToString() + "ˆÊ : name " + Score[i].ToString();
         }
     }
 
